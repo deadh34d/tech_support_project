@@ -1,0 +1,53 @@
+#form {
+    width: 45%;
+}
+
+#form input, select {
+    display: inline-block;
+    float: right;
+    clear: right;
+    margin: 3px;
+}
+
+#form label {
+    float: left;
+    margin: 5px;
+}
+
+#registration {
+    width: 45%;
+}
+
+#left {
+    display: inline;
+    float: left;
+    //clear: left;
+}
+
+#right {
+    display: inline;
+    float: right;
+    //clear: right;
+}
+
+em {
+    float: right;
+}
+
+#return_to_view {
+    clear: left;
+    float: left;
+    margin-top: 5px;
+    width: 95%;
+}
+
+#return_to_view p a {
+    float: left;
+    clear: left;
+    display: block;
+}
+
+#return_to_view em {
+    float: right;
+    clear: right;
+}
